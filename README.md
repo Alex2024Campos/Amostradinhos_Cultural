@@ -22,6 +22,7 @@
 
 <details>
 <summary> Esquematização </summary>
+
 `Personagens`
 
 `Protagonista:`
