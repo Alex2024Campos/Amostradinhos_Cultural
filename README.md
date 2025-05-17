@@ -3,10 +3,10 @@
  Alex Campos de Oliveira
  Kauan Merida
 
-1. [Pesquisa](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/1.-Informa%C3%A7%C3%B5es-Gerais)<br>
+1. [Pesquisa](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/1.-Pesquisa)<br>
 
 
-2. [Protótipo](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/2.-Mecânicas-de-Jogo)<br>
+2. [Protótipo](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/2.-Prot%C3%B3tipo)<br>
 
 
 3. [Narrativa](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/3.-Narrativa)<br>
