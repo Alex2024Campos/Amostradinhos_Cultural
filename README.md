@@ -38,17 +38,11 @@ O template é dividido nas seguintes seções principais:
 -->
 # Sumário
 
-1. [Informações Gerais](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/1.-Informa%C3%A7%C3%B5es-Gerais)<br>
-    1.1. [Título do Jogo](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/1.-Informa%C3%A7%C3%B5es-Gerais#11-título-do-jogo)<br>
-    1.2. [Plataforma](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/1.-Informa%C3%A7%C3%B5es-Gerais#12-plataforma)<br>
-    1.3. [Gênero](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/1.-Informa%C3%A7%C3%B5es-Gerais#13-gênero)<br>
-    1.4. [Público-Alvo](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/1.-Informa%C3%A7%C3%B5es-Gerais#14-público-alvo)<br>
-    1.5. [Visão Geral do Jogo](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/1.-Informa%C3%A7%C3%B5es-Gerais#15-visão-geral-do-jogo)<br>
+1. [Pesquisa](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/1.-Informa%C3%A7%C3%B5es-Gerais)<br>
 
-2. [Mecânicas de Jogo](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/2.-Mecânicas-de-Jogo)<br>
-    2.1. [Regras Básicas](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/2.-Mecânicas-de-Jogo#21-regras-básicas)<br>
-    2.2. [Controles](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/2.-Mecânicas-de-Jogo#22-controles)<br>
-    2.3. [Objetivos e Metas](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/2.-Mecânicas-de-Jogo#23-objetivos-e-metas)<br>
+
+2. [Protótipo](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/2.-Mecânicas-de-Jogo)<br>
+
 
 3. [Narrativa](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/3.-Narrativa)<br>
     3.1. [História Principal](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/3.-Narrativa#31-história-principal)<br>
