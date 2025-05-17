@@ -1,42 +1,7 @@
-<p align="center">
-  <img src="https://i.ibb.co/56s7K8j/292330192-445386850928422-7259301303587158181-n-jpg.png" alt="Minimalist RPG GDD Banner">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="License: MIT">
-  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Versão-0.2.9-blue?style=for-the-badge" alt="Versão">
-  <img src="https://img.shields.io/badge/Markdown-%23%23302c9b.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
-
-</p>
-
-## Grupo:
+## Dupla:
 
  Alex Campos de Oliveira
- 
- Felipe Mussato Rodrigues
- 
- Guilherme Henrique Lemes de Souza
- 
  Kauan Merida
-
-
-
-## Estrutura do Documento
-
-O template é dividido nas seguintes seções principais:
-1. **Informações Gerais:** Detalha as informações básicas sobre o jogo, como título, plataforma, gênero e público-alvo.
-2. **Mecânicas de Jogo:** Descreve as regras, controles, objetivos, sistema de pontuação, interações, progressão, IA, dinâmicas e economia do jogo.
-3. **Narrativa:** Apresenta a história principal, personagens, cenários, missões e diálogos do jogo.
-4. **Design de Níveis:** Estrutura, mapas, desafios, fluxo e balanceamento de dificuldade dos níveis.
-5. **Arte e Estilo Visual:** Detalha o estilo artístico, personagens, cenários, interface do usuário e paleta de cores.
-6. **Áudio:** Descreve a trilha sonora, efeitos sonoros, dublagem e som ambiente.
-<!--7. **Progresso e Salvamento:** Explica os sistemas de progressão e salvamento do jogo.
-8. **Monetização:** Detalha o modelo de negócio e itens pagos.
-9. **Testes e Qualidade:** Plano de testes e coleta de feedback dos jogadores.
-10. **Conclusão:** Resume os principais pontos do GDD e os próximos passos no desenvolvimento do jogo.
--->
-# Sumário
 
 1. [Pesquisa](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/1.-Informa%C3%A7%C3%B5es-Gerais)<br>
 
