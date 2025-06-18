@@ -70,7 +70,7 @@ O template é dividido nas seguintes seções principais:
 6. [Áudio](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/6.-Áudio)<br>
     6.1. [Efeitos Sonoros](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/6.-Áudio#62-efeitos-sonoros)<br>
 
-7. [Codificação]([https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/5.-Arte-e-Estilo-Visual](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/7.-Codifica%C3%A7%C3%A3o))<br>
+7. [Codificação](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/7.-Codifica%C3%A7%C3%A3o)<br>
    7.1. [Movimentação](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/7.-Codifica%C3%A7%C3%A3o#71-movimenta%C3%A7%C3%A3o)<br>
    7.2. [Combate](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/7.-Codifica%C3%A7%C3%A3o#72-combate)<br>
    7.3. [Chicote](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/7.-Codifica%C3%A7%C3%A3o#73-lan%C3%A7ar-chicote)<br>
