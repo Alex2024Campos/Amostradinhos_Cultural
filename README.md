@@ -77,13 +77,14 @@ O template é dividido nas seguintes seções principais:
    7.4. [Diálogo](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/7.-Codifica%C3%A7%C3%A3o#74-di%C3%A1logo)<br>
 
 8. [Floresta](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/8.-Floresta)<br>
-   8.1. [Contexto da Cena](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/8.-Floresta#81-contexto-da-fase)<br>
-   8.2. [Mecânicas Gerais da Cena](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/8.-Floresta#82-mec%C3%A2nicas-gerais-da-cena)<br>
-   8.3. [Inimigos Utilizados](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/8.-Floresta#83-inimigos-utilizados)<br>
-   8.4. [Assets Utilizado:](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/8.-Floresta#84-assets-usados)<br>
-
+  
 9. [Vila Indígena](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/9.-Vila-Ind%C3%ADgena)<br>
-   9.1. [Contexto da Cena](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/9.-Vila-Ind%C3%ADgena#91-contexto-da-fase)<br>
-   9.2. [Mecânicas Gerais da Cena](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/9.-Vila-Ind%C3%ADgena#92-mec%C3%A2nicas-gerais-da-cena)<br>
-   9.3. [Inimigos Utilizados](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/9.-Vila-Ind%C3%ADgena#93-inimigos-utilizados)<br>
-   9.4. [Assets Utilizado](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/9.-Vila-Ind%C3%ADgena#94-assets-utilizado)<br>
+
+10. [Cidade-de-Deus](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/10.-Cidade-de-Deus)
+
+11. [Arena](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/11.-Arena)
+
+12. [Diagrama-de-Classes-UML](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/12.-Diagrama-de-Classes-UML)
+
+13. [Referências](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/13.-Refer%C3%AAncias)
+
