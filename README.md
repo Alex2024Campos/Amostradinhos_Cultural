@@ -104,13 +104,15 @@ O template é dividido nas seguintes seções principais:
    11.5. [Imagem ou Vídeo da Cena](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/11.-Arena#115-imagem-ou-v%C3%ADdeo-da-cena)<br>
    11.6. [Referências](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/11.-Arena#116-refer%C3%AAncias-utilizados)<br>
 
-12. [Diagrama-de-Classes-UML](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/12.-Diagrama-de-Classes-UML) <br>
-    12.1. [Diagrama Antigo](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/11.-Arena#115-imagem-ou-v%C3%ADdeo-da-cena)<br>
-    12.2. [Diagrama Atual](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/11.-Arena#115-imagem-ou-v%C3%ADdeo-da-cena)<br>
-    12.3. [Diagrama Final](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/12.-Diagrama-de-Classes-UML#123-diagrama-final-corrigido)<br>
+12. [Cena Geral](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/15.-Cena-Geral)
 
-13. [Referências](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/13.-Refer%C3%AAncias) <br>
-    13.1. [Referência dos Cenários](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/13.-Refer%C3%AAncias#131-refer%C3%AAncias-dos-cen%C3%A1rios)<br>
-    13.2. [Referência de Personagens](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/13.-Refer%C3%AAncias#132-refer%C3%AAncias-dos-personagens)<br>
-    13.3. [Referências dos Scripts](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/13.-Refer%C3%AAncias#133-refer%C3%AAncias-dos-scripts)<br>
+13. [Diagrama-de-Classes-UML](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/12.-Diagrama-de-Classes-UML) <br>
+    13.1. [Diagrama Antigo](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/12.-Diagrama-de-Classes-UML#121-diagrama-antigo)<br>
+    13.2. [Diagrama Atual](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/12.-Diagrama-de-Classes-UML#122-diagrama-atual)<br>
+    13.3. [Diagrama Final](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/12.-Diagrama-de-Classes-UML#123-diagrama-final-corrigido)<br>
+
+14. [Referências](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/13.-Refer%C3%AAncias) <br>
+    14.1. [Referência dos Cenários](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/14.-Refer%C3%AAncias#141-refer%C3%AAncias-dos-cen%C3%A1rios)<br>
+    14.2. [Referência de Personagens](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/14.-Refer%C3%AAncias#142-refer%C3%AAncias-dos-personagens)<br>
+    14.3. [Referências dos Scripts](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/14.-Refer%C3%AAncias#143-refer%C3%AAncias-dos-scripts)<br>
 
