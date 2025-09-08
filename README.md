@@ -71,53 +71,46 @@ O template é dividido nas seguintes seções principais:
     6.1. [Efeitos Sonoros](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/6.-Áudio#62-efeitos-sonoros)<br>
 
 7. [Codificação](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/7.-Codifica%C3%A7%C3%A3o)<br>
-   7.1. [Movimentação](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/7.-Codifica%C3%A7%C3%A3o#71-movimenta%C3%A7%C3%A3o)<br>
-   7.2. [Combate](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/7.-Codifica%C3%A7%C3%A3o#72-combate)<br>
-   7.3. [Chicote](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/7.-Codifica%C3%A7%C3%A3o#73-lan%C3%A7ar-chicote)<br>
-   7.4. [Diálogo](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/7.-Codifica%C3%A7%C3%A3o#74-di%C3%A1logo)<br>
 
 8. [Floresta](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/8.-Floresta)<br>
-   8.1. [Conceito da Fase:]()<br>
-   8.2. [Mecânicas Gerais]()<br>
-   8.3. [Inimigos Utilizados]()<br>
-   8.4. [Conceitos do Unity]()<br>
-   8.5. [Imagem ou Vídeo da Cena]()<br>
-   8.6. [Referências]()<br>
+   8.1. [Conceito da Fase:](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/8.-Floresta#81-conceito-da-fase)<br>
+   8.2. [Mecânicas Gerais](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/8.-Floresta#82-mec%C3%A2nicas-gerais-da-cena)<br>
+   8.3. [Inimigos Utilizados](http://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/8.-Floresta#83-inimigos-utilizados)<br>
+   8.4. [Conceitos do Unity](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/8.-Floresta#84-conceitos-do-unity)<br>
+   8.5. [Imagem ou Vídeo da Cena](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/8.-Floresta#85-imagem-ou-v%C3%ADdeo-da-cena)<br>
+   8.6. [Referências](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/8.-Floresta#86-refer%C3%AAncias)<br>
    
 9. [Vila Indígena](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/9.-Vila-Ind%C3%ADgena)<br>
-   9.1. Conceito da Fase:]()<br>
-   9.2. [Mecânicas Gerais]()<br>
-   9.3. [Inimigos Utilizados]()<br>
-   9.4. [Conceitos do Unity]()<br>
-   9.5. [Imagem ou Vídeo da Cena]()<br>
-   9.6. [Referências]()<br>
+   9.1. [Conceito da Fase:](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/9.-Vila-Ind%C3%ADgena#91-conceito-da-fase)<br>
+   9.2. [Mecânicas Gerais](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/9.-Vila-Ind%C3%ADgena#92-mec%C3%A2nicas-gerais-da-cena)<br>
+   9.3. [Inimigos Utilizados](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/9.-Vila-Ind%C3%ADgena#93-inimigos-utilizados)<br>
+   9.4. [Conceitos do Unity](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/9.-Vila-Ind%C3%ADgena#94-conceitos-do-unity)<br>
+   9.5. [Imagem ou Vídeo da Cena](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/9.-Vila-Ind%C3%ADgena#95-imagem-ou-v%C3%ADdeo-da-cena)<br>
+   9.6. [Referências](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/9.-Vila-Ind%C3%ADgena#96-refer%C3%AAncias)<br>
    
 10. [Cidade-de-Deus](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/10.-Cidade-de-Deus) <br>
-   10.1. Conceito da Fase:]()<br>
-   10.2. [Mecânicas Gerais]()<br>
-   10.3. [Inimigos Utilizados]()<br>
-   10.4. [Conceitos do Unity]()<br>
-   10.5. [Imagem ou Vídeo da Cena]()<br>
-   10.6. [Referências]()<br>
+   10.1. [Conceito da Fase](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/10.-Cidade-de-Deus#101-conceito-da-fase)<br>
+   10.2. [Mecânicas Gerais](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/10.-Cidade-de-Deus#102-mec%C3%A2nicas-gerais-da-cena)<br>
+   10.3. [Inimigos Utilizados](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/10.-Cidade-de-Deus#103-inimigos-utilizados)<br>
+   10.4. [Conceitos do Unity](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/10.-Cidade-de-Deus#104-conceitos-do-unity)<br>
+   10.5. [Imagem ou Vídeo da Cena](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/10.-Cidade-de-Deus#105-imagem-ou-v%C3%ADdeo-da-cena)<br>
+   10.6. [Referências](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/10.-Cidade-de-Deus#106-refer%C3%AAncias)<br>
    
 11. [Arena](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/11.-Arena) <br>
-   11.1. Conceito da Fase:]()<br> 
-   11.2. [Mecânicas Gerais]()<br>
-   11.3. [Inimigos Utilizados]()<br>
-   11.4. [Conceitos do Unity]()<br>
-   11.5. [Imagem ou Vídeo da Cena]()<br>
-   11.6. [Referências]()<br>
+   11.1. [Conceito da Fase](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/11.-Arena#111-conceito-da-fase)<br> 
+   11.2. [Mecânicas Gerais](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/11.-Arena#112-mec%C3%A2nicas-gerais-da-cena)<br>
+   11.3. [Inimigos Utilizados](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/11.-Arena#113-inimigos-utilizados)<br>
+   11.4. [Conceitos do Unity](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/11.-Arena#114-conceitos-do-unity)<br>
+   11.5. [Imagem ou Vídeo da Cena](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/11.-Arena#115-imagem-ou-v%C3%ADdeo-da-cena)<br>
+   11.6. [Referências](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/11.-Arena#116-refer%C3%AAncias-utilizados)<br>
 
 12. [Diagrama-de-Classes-UML](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/12.-Diagrama-de-Classes-UML) <br>
-    12.1. Conceito da Fase:]()<br>
-    12.2. [Mecânicas Gerais]()<br>
-    12.3. [Inimigos Utilizados]()<br>
-    12.4. [Conceitos do Unity]()<br>
-    12.5. [Imagem ou Vídeo da Cena]()<br>
-    12.6. [Referências]()<br>
+    12.1. [Diagrama Antigo](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/11.-Arena#115-imagem-ou-v%C3%ADdeo-da-cena)<br>
+    12.2. [Diagrama Atual](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/11.-Arena#115-imagem-ou-v%C3%ADdeo-da-cena)<br>
+    12.3. [Diagrama Final](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/12.-Diagrama-de-Classes-UML#123-diagrama-final-corrigido)<br>
 
-14. [Referências](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/13.-Refer%C3%AAncias) <br>
-    14.1. []()<br>
-    14.2. []()<br>
-    14.3. [Referências]()<br>
+13. [Referências](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/13.-Refer%C3%AAncias) <br>
+    13.1. [Referência dos Cenários](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/13.-Refer%C3%AAncias#131-refer%C3%AAncias-dos-cen%C3%A1rios)<br>
+    13.2. [Referência de Personagens](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/13.-Refer%C3%AAncias#132-refer%C3%AAncias-dos-personagens)<br>
+    13.3. [Referências dos Scripts](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/13.-Refer%C3%AAncias#133-refer%C3%AAncias-dos-scripts)<br>
 
