@@ -116,3 +116,4 @@ O template é dividido nas seguintes seções principais:
     14.2. [Referência de Personagens](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/14.-Refer%C3%AAncias#142-refer%C3%AAncias-dos-personagens)<br>
     14.3. [Referências dos Scripts](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/14.-Refer%C3%AAncias#143-refer%C3%AAncias-dos-scripts)<br>
 
+15. [Relatório das Duplas](https://github.com/Alex2024Campos/Amostradinhos_Cultural/wiki/15.-Relat%C3%B3rio)
