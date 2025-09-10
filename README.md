@@ -20,6 +20,11 @@
  
  Kauan Merida
 
+## Gameplay:
+https://youtu.be/-Vj46PpxER4
+
+## Drive:
+https://drive.google.com/drive/folders/1b5cOaDJcH0FncRBoisP9hLeHRkeLFu4Y?usp=sharing
 
 
 ## Estrutura do Documento
