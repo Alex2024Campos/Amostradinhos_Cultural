@@ -22,7 +22,8 @@
 
 ## Gameplay:
 https://youtu.be/-Vj46PpxER4
-Os erros na gravação:
+
+- Os erros na gravação:
 - A mão do jogador aparecendo ocorre pelo mesmo ter um Animator que não deveriam
 - A proporção do Canvas da cena quebrou na hora do Build In.
 - As colisões das portas não estão pegando a aproximação do jogador (mesmo estando IsTrigger e tendo funcionado antes). Será feita uma gravação para demonstrar esse funcionamento.
